@@ -1,0 +1,73 @@
+.title{
+    color: rgb(227, 110, 110);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 36px;
+    text-decoration: none;
+    background-color: aliceblue;
+}
+.description {
+    color: #333;
+    text-align: center;
+    font-family: 'Times New Roman', serif;
+    margin: 20px;
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+#paragraph {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 10px;
+}
+.ingredients {
+    color: #444;
+    font-family: 'Georgia', serif;
+    margin: 20px;
+    font-size: 24px;
+    text-align: center;
+}
+.ingredients-list {
+    max-width: 400px;
+    text-align: center;
+    margin: auto;
+    padding: 0;
+    list-style-type: square;
+    font-size: 18px;
+    line-height: 1.6;
+    background-color: aliceblue;
+}
+.steps {
+    color: #444;
+    font-family: 'Georgia', serif;
+    margin: 20px;
+    font-size: 24px;
+    text-align: center;
+}
+.steps-list {
+    max-width: 600px;
+    text-align:left;
+    margin: auto;
+    padding: 0 20px;
+    list-style-type: decimal;
+    font-size: 18px;
+    line-height: 1.6;
+    background-color: aliceblue;
+}
+a{
+    display: block;
+    text-align: center;
+    margin: 10px;
+    font-size: 24px;
+    text-decoration: none;
+    color: rgb(227, 110, 110);
+    font-family: Arial, sans-serif;
+    background-color: aliceblue;
+}
